@@ -1,0 +1,16 @@
+{
+  "id": "hyperliquid-trader",
+  "version": "0.1.0",
+  "name": "Hyperliquid Trader",
+  "emoji": "🔮",
+  "role": "Professional Crypto Spot & Perpetual Futures Trading Advisor",
+  "tagline": "Trade crypto spot and perpetual futures on Hyperliquid — from research to execution, monitoring, and review.",
+  "description": "A professional crypto trading agent powered by Hyperliquid DEX. Supports spot trading and perpetual futures with up to 50x leverage. Guides you through wallet setup, market research, order execution (limit, market, bracket, TWAP), strategy building with backtesting, real-time monitoring with alerts, and portfolio review. Supports testnet and mainnet with built-in risk management.",
+  "category": "finance",
+  "model": "claude-sonnet-4-5",
+  "skills": [
+    "https://github.com/yshi0730/hyperliquid-skill@hyperliquid"
+  ],
+  "minOpenClawVersion": "2026.3.1",
+  "avatarUrl": null
+}
